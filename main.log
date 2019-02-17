@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.2)  17 FEB 2019 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.2)  17 FEB 2019 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,99 +628,109 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 124--124
  []
 
 [2]
-<img/tabla6_1.png, id=21, 978.65625pt x 177.66376pt>
+<img/tabla5.png, id=21, 733.74126pt x 318.18875pt>
+File: img/tabla5.png Graphic file (type png)
+<use img/tabla5.png>
+Package pdftex.def Info: img/tabla5.png  used on input line 134.
+(pdftex.def)             Requested size: 390.0pt x 169.12474pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 134--134
+ [][] 
+ []
+
+<img/tabla6_1.png, id=22, 978.65625pt x 177.66376pt>
 File: img/tabla6_1.png Graphic file (type png)
 <use img/tabla6_1.png>
-Package pdftex.def Info: img/tabla6_1.png  used on input line 141.
+Package pdftex.def Info: img/tabla6_1.png  used on input line 148.
 (pdftex.def)             Requested size: 390.0pt x 70.80127pt.
 
-Overfull \hbox (55.22438pt too wide) in paragraph at lines 141--141
+Overfull \hbox (55.22438pt too wide) in paragraph at lines 148--148
  [][] 
  []
 
-<img/tabla6_2.png, id=22, 969.6225pt x 179.67125pt>
+[3 <./img/tabla4.png> <./img/tabla5.png>]
+<img/tabla6_2.png, id=26, 969.6225pt x 179.67125pt>
 File: img/tabla6_2.png Graphic file (type png)
 <use img/tabla6_2.png>
-Package pdftex.def Info: img/tabla6_2.png  used on input line 151.
+Package pdftex.def Info: img/tabla6_2.png  used on input line 158.
 (pdftex.def)             Requested size: 390.0pt x 72.26749pt.
 
-Overfull \hbox (55.22438pt too wide) in paragraph at lines 151--151
+Overfull \hbox (55.22438pt too wide) in paragraph at lines 158--158
  [][] 
  []
 
-[3 <./img/tabla4.png> <./img/tabla6_1.png> <./img/tabla6_2.png>]
-<img/tabla7.png, id=26, 780.9175pt x 189.70876pt>
+<img/tabla7.png, id=27, 780.9175pt x 189.70876pt>
 File: img/tabla7.png Graphic file (type png)
 <use img/tabla7.png>
-Package pdftex.def Info: img/tabla7.png  used on input line 164.
+Package pdftex.def Info: img/tabla7.png  used on input line 171.
 (pdftex.def)             Requested size: 390.0pt x 94.74124pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 164--164
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 171--171
  [][] 
  []
 
-<img/tabla8.png, id=27, 652.4375pt x 164.615pt>
+[4 <./img/tabla6_1.png> <./img/tabla6_2.png> <./img/tabla7.png>]
+<img/tabla8.png, id=31, 652.4375pt x 164.615pt>
 File: img/tabla8.png Graphic file (type png)
 <use img/tabla8.png>
-Package pdftex.def Info: img/tabla8.png  used on input line 174.
+Package pdftex.def Info: img/tabla8.png  used on input line 181.
 (pdftex.def)             Requested size: 390.0pt x 98.40303pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 174--174
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 181--181
  [][] 
  []
 
-[4 <./img/tabla7.png> <./img/tabla8.png>]
-<img/tabla9.png, id=31, 783.92876pt x 163.61125pt>
+<img/tabla9.png, id=32, 783.92876pt x 163.61125pt>
 File: img/tabla9.png Graphic file (type png)
 <use img/tabla9.png>
-Package pdftex.def Info: img/tabla9.png  used on input line 184.
+Package pdftex.def Info: img/tabla9.png  used on input line 191.
 (pdftex.def)             Requested size: 390.0pt x 81.39598pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 184--184
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 191--191
  [][] 
  []
 
-<img/tabla10.png, id=32, 773.89125pt x 171.64125pt>
+<img/tabla10.png, id=33, 773.89125pt x 171.64125pt>
 File: img/tabla10.png Graphic file (type png)
 <use img/tabla10.png>
-Package pdftex.def Info: img/tabla10.png  used on input line 194.
+Package pdftex.def Info: img/tabla10.png  used on input line 201.
 (pdftex.def)             Requested size: 390.0pt x 86.49872pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 194--194
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 201--201
  [][] 
  []
 
-[5 <./img/tabla9.png> <./img/tabla10.png>]
-<img/tabla11_12.png, id=36, 773.89125pt x 296.10625pt>
+[5 <./img/tabla8.png> <./img/tabla9.png>]
+<img/tabla11_12.png, id=37, 773.89125pt x 296.10625pt>
 File: img/tabla11_12.png Graphic file (type png)
 <use img/tabla11_12.png>
-Package pdftex.def Info: img/tabla11_12.png  used on input line 209.
+Package pdftex.def Info: img/tabla11_12.png  used on input line 216.
 (pdftex.def)             Requested size: 390.0pt x 149.22296pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 209--209
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 216--216
  [][] 
  []
 
-[6 <./img/tabla11_12.png>]
-<img/tabla15.png, id=41, 774.895pt x 231.86626pt>
+[6 <./img/tabla10.png> <./img/tabla11_12.png>]
+<img/tabla15.png, id=42, 774.895pt x 231.86626pt>
 File: img/tabla15.png Graphic file (type png)
 <use img/tabla15.png>
-Package pdftex.def Info: img/tabla15.png  used on input line 229.
+Package pdftex.def Info: img/tabla15.png  used on input line 236.
 (pdftex.def)             Requested size: 390.0pt x 116.69704pt.
 
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 229--229
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 236--236
  [][] 
  []
 
-[7 <./img/tabla15.png>] (./main.aux
+[7 <./img/tabla15.png>] [8] (./main.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 4136 strings out of 494747
- 55708 string characters out of 6176208
+ 4141 strings out of 494747
+ 55793 string characters out of 6176208
  129035 words of memory out of 5000000
- 7383 multiletter control sequences out of 15000+600000
+ 7387 multiletter control sequences out of 15000+600000
  9196 words of font info for 32 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
  41i,11n,43p,653b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -729,10 +739,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (8 pages, 273669 bytes).
+Output written on main.pdf (9 pages, 298812 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
